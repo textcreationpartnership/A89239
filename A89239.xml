@@ -1,0 +1,680 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Naked truth, or, A plain discovery of the intrigues of amorous fops and humours of several other whimsical persons in a pleasant and profitable dialogue between a precious saint-like sister called Terpole and Mimologos, a scoffing buffoon / written by Don Francisco Baltheo de Montalvan, and faithfully translated out of the original by W.H., M.D.</title>
+            <author>Montalvan, Francisco Baltheo de.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 71 KB of XML-encoded text transcribed from 40 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89239</idno>
+            <idno type="STC">Wing M2483</idno>
+            <idno type="STC">ESTC R42790</idno>
+            <idno type="EEBO-CITATION">38875757</idno>
+            <idno type="OCLC">ocm 38875757</idno>
+            <idno type="VID">152302</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89239)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152302)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2292:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Naked truth, or, A plain discovery of the intrigues of amorous fops and humours of several other whimsical persons in a pleasant and profitable dialogue between a precious saint-like sister called Terpole and Mimologos, a scoffing buffoon / written by Don Francisco Baltheo de Montalvan, and faithfully translated out of the original by W.H., M.D.</title>
+                  <author>Montalvan, Francisco Baltheo de.</author>
+                  <author>W. H.</author>
+               </titleStmt>
+               <extent>[10], 68, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Palmer ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. [1] at end.</note>
+                  <note>Name of author may be a pseudonym.</note>
+                  <note>Reproduction of original in: Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>English wit and humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152302:1" rendition="simple:additions"/>
+            <p>NAKED TRUTH Or a Plain DISCOVERY Of the Intrigues of Amorous Fops, And Humours of ſeveral other WHIMSICAL PERSONS, In a Pleaſant and profitable Dialogue between a precious Saint-like Siſter called <hi>Terpole</hi> and <hi>Mimologos</hi> a Scoffing <hi>Buffoon</hi>
+            </p>
+            <p>Written by <hi>DON FRANCISCO B'ALTHEC de Montalvan,</hi> and faithfully tranſlated out of the Original By <hi>W. H.</hi> M. D.</p>
+            <q>
+               <hi>Dulce eſt decipere in loco.</hi>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Palmer,</hi> at the <hi>Crow<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> in <hi>Weſtminſter</hi>-Hall. 1673.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:152302:2" rendition="simple:additions"/>
+            <pb facs="tcp:152302:2" rendition="simple:additions"/>
+            <head>THE TRANSLATORS PREFACE.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>DO'nt you wonder to ſee a <hi>Spaniard</hi> travel up and down our Nation in an <hi>English</hi> ha<g ref="char:EOLhyphen"/>bit, and ſo <hi>light</hi> an one too? Ceaſe to wonder, and know he layed aſide his wonted <hi>gra<g ref="char:EOLhyphen"/>vity</hi> purpoſely, out of com<g ref="char:EOLhyphen"/>plaiſance, that he might more
+<pb facs="tcp:152302:3"/>
+freely converſe with us; and he ſeeing that the humour of our people was ſuch, that ſo<g ref="char:EOLhyphen"/>ber Truths would not down with them, without an inter-mixture of <hi>Jollity,</hi> he con<g ref="char:EOLhyphen"/>deſcends to gratifie our Pa<g ref="char:EOLhyphen"/>lats, which will nauſeate the bitter <hi>Pills</hi> of <hi>reprehen<g ref="char:EOLhyphen"/>ſion,</hi> unleſs guilded overwith <hi>Joviſance</hi> &amp; <hi>Drollery.</hi>
+            </p>
+            <p>In his travails here, when he of late took his Voyage into <hi>England;</hi> he goes about like a <hi>Knight-Errant,</hi> and puts himſelf upon an ha<g ref="char:EOLhyphen"/>zardous
+<pb facs="tcp:152302:3"/>
+adventure; to cen<g ref="char:EOLhyphen"/>ſure perſons for the exorbi<g ref="char:EOLhyphen"/>tances of their anomalous life, an hard Province 'tis he undertakes, and not likely to pleaſe, except here and there one, who are unprejudiced and unconcerned: In his paſ<g ref="char:EOLhyphen"/>ſage to and fro, he obſerves the <hi>humours</hi> of ſeveral ſorts of perſons, and animadverts upon them pretty ſmartly ſometimes; eſpecially, upon the debauchery of the effemi<g ref="char:EOLhyphen"/>nate <hi>Gallant</hi> and the Ri<g ref="char:EOLhyphen"/>diculous Fopperies of the ig<g ref="char:EOLhyphen"/>norantly
+<pb facs="tcp:152302:4"/>
+               <hi>zealous Phana<g ref="char:EOLhyphen"/>tick;</hi> here perhaps as in a clear Mirrour thou mayeſt ſee thy own Face, read thy own fault and deſtiny: Now let me deſire thee not to tran<g ref="char:EOLhyphen"/>ſlate that again; which I have once tranſlated already; I mean that thou do'ſt not lay thy own fault upon another, but ſuſpect thy ſelf, under the perſon of another; lay thy hand upon thy heart, and ſay is it I he means? And what faults thou meeteſt with in my Tranſlation candidly
+<pb facs="tcp:152302:4"/>
+rather <hi>correct,</hi> than ſatyri<g ref="char:EOLhyphen"/>cally <hi>carp</hi> at. But firſt let me entreat thee to amend what is amiſs in thy ſelf, (becauſe <hi>charity</hi> begins at home) and then in him who fervently is</p>
+            <closer>
+               <signed>Devoted to do you all the good he can. <hi>W. H.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:152302:5"/>
+            <pb facs="tcp:152302:5"/>
+            <head>To his Honoured FRIEND THE Ingenious Publiſher of this Face<g ref="char:EOLhyphen"/>tious Diſcourſe.</head>
+            <lg>
+               <l>
+                  <hi>PYthagoras</hi> was i'th right, <hi>Lucian</hi>'s again.</l>
+               <l>Reviv'd, we find, in your more happy ſtrain;</l>
+               <l>For herein only we acknowledge odds</l>
+               <l>Your witty Dialogue reviles no Gods;</l>
+               <l>But with free mirth comes bravely to engage</l>
+               <l>And laſh the Follies of a Brainſick age;</l>
+               <l>Now Learning and Religion waſted lye</l>
+               <l>'Twixt pious Non-ſenſe and wild Drollery</l>
+               <l>Your harmleſs Joques correct our Ignorance</l>
+               <l>And wiſe Phyſitian-like in complaiſance</l>
+               <l>To coy depraved Pallats, guild 'ore ſtill</l>
+               <l>With pleaſant, Gayeties your ſalubrious Pill</l>
+               <l>A Diſh ſo Cook'd all Appetites will fit</l>
+               <l>Deep Notions intermixt with ſprightly wit</l>
+               <l>Envy muſt grant this compoſition rare</l>
+               <l>A Rabbins learning, and a Poets Air;</l>
+               <l>Thoſe that from grave Diſcourſes fly away</l>
+               <l>You to good Leſſons unawares betray</l>
+               <l>The Splay-mouth'd Brother, and his melting Mate</l>
+               <l>In this Glaſs view themſelves, and bluſhing hate</l>
+               <l>
+                  <pb facs="tcp:152302:6"/>Henceforwards all theſe darling Fopperies</l>
+               <l>They therefore ſo zealouſly did prize</l>
+               <l>Blew-Apron'd Levites, Fortunetelling Quacks</l>
+               <l>Emptie ſcull'd Gallants, cheating what-de? lacks</l>
+               <l>All here Arraign'd, hold up their guilty hand</l>
+               <l>And for their ſeveral crimes receive the brand.</l>
+            </lg>
+            <lg>
+               <l>Let ſupercilious Cato's then ſtand by</l>
+               <l>With their moroſe affrightning Gravity</l>
+               <l>Whilſt we with thanks applaud your Art that know</l>
+               <l>At once to profit, and delight us too.</l>
+            </lg>
+            <closer>
+               <signed>H. C.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:152302:6"/>
+            <head>NAKED TRUTH OR A Plain Diſcovery Of the Intrigues of Amorous Fops, and Humours of ſeveral other whim<g ref="char:EOLhyphen"/>ſical perſons, in a pleaſant and pro<g ref="char:EOLhyphen"/>fitable Dialogue, between a pre<g ref="char:EOLhyphen"/>cious Saint-like Siſter called <hi>Ter<g ref="char:EOLhyphen"/>pole</hi> and <hi>Mimologos</hi> a Scoffing <hi>Buf<g ref="char:EOLhyphen"/>foon.</hi>
+            </head>
+            <sp>
+               <speaker>Mim.</speaker>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">W</seg>Ell met Dear Siſter, whe<g ref="char:EOLhyphen"/>ther away ſo faſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Terp.</speaker>
+               <p>
+                  <hi>Faſt me no faſt.</hi> I have <hi>faſted</hi> long enough already, now I have ſome<g ref="char:EOLhyphen"/>what elſe to do than to ſtand
+<pb n="2" facs="tcp:152302:7"/>
+pratling with you I am ſo hung<g ref="char:EOLhyphen"/>erbitten: Therefore to be ſhort, I am newly come from a Le<g ref="char:EOLhyphen"/>cture, and am afraid my Dinner will be ſpoiled the Sermon was ſo <hi>long.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mim.</speaker>
+               <p>
+                  <hi>Well the</hi> ſhort <hi>and the</hi> long <hi>of it is, I cannot find in my Heart to ſay that I am glad you have been ſo well imployed, for you might have been better</hi> occupied, <hi>(I believe) in ſome other place, but tell me prithee</hi> Terpole, <hi>what long winded Brother in a ſhort Jump Coat did preach to day?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Terp.</speaker>
+               <p>Fie upon you <hi>Mimologue,</hi> you will never leave your old wont to flout at goodneſs, but I thought, you could have expreſt your ſelf more properly, than to call ſuch an exerciſe, <hi>Preaching;</hi> we who are ac<g ref="char:EOLhyphen"/>quainted beſt with the <hi>Holy Dialect ſtyle</hi> it <hi>ſtanding.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="3" facs="tcp:152302:7"/>
+               <speaker>Mim.</speaker>
+               <p>
+                  <hi>I thank you good</hi> Terpole <hi>for admoniſhing me of my Error, for true it is I did not ſpeak ſo Congruouſly when I ſaid ſo, for now I remember me in</hi> Northampton-ſhire <hi>I have heard, it is a common phraſe among the Siſters there: Such an one</hi> Stood <hi>to day; therefore to ſpeak at length more properly what was his Name that</hi> Stood <hi>to day.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Terp.</speaker>
+               <p>He is called Mr. <hi>Stan-hup.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mim.</speaker>
+               <p>
+                  <hi>A very proper Name,</hi> Faith <hi>Siſter to ſpeak according to the</hi> Fleſh.</p>
+            </sp>
+            <sp>
+               <speaker>Terp.</speaker>
+               <p>You ſtill emprove all I ſay to this ſcurrilous ſcoffing way, you are the erranteſt Droller in Nature, and it ſeems have accuſtomed your ſelf to it, <hi>and conſuetudo eſt altera Na<g ref="char:EOLhyphen"/>tura,</hi> you know cuſtom is a ſecond nature, for I have ſo much Latine, being taught in my Fathers Houſe, when I was a Girl by my Fathers Chaplain, as alſo a little of the Greek Language.</p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:152302:8"/>
+               <speaker>Mim.</speaker>
+               <p>
+                  <hi>It may be you have learned</hi> French <hi>too.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Terp.</speaker>
+               <p>Yes to deal plainly with you, I have.</p>
+            </sp>
+            <sp>
+               <speaker>Mim.</speaker>
+               <p>
+                  <hi>I will not ask you, whether you have learned</hi> Italian <hi>and</hi> Spaniſh, <hi>for I preſume, you have not proceeded ſo far.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Terp.</speaker>
+               <p>It had been no great pre<g ref="char:EOLhyphen"/>ſumption in you, if you had put the queſtion, if you will not think it any oftentation in me, to anſwer that I have; but <hi>(abſit verbo arrogantia)</hi> 'tis true enough. For my Father reſolving, that there ſhould be no<g ref="char:EOLhyphen"/>thing wanting as to the accompliſh<g ref="char:EOLhyphen"/>ing me in my Education, allowed me Maſters to inſtruct me in all theſe Languages.</p>
+            </sp>
+            <sp>
+               <speaker>Mim.</speaker>
+               <p>
+                  <hi>Now I have much ado to keep my hands off, from</hi> taking thee up, <hi>and that to purpoſe, you do ſo pro<g ref="char:EOLhyphen"/>voke me? VVhat haſt thou</hi> Terpole <hi>to do with ſo many Languages? Thou
+<pb n="5" facs="tcp:152302:8" rendition="simple:additions"/>
+haſt enough to confound twenty Men; eſpecially when pratling is ſo incident to your ſex, that a man cannot well ſuppoſe one to be a VVoman without it, therefore</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>in Greek ſignifies both</hi> foeminam &amp; confabulationem; <hi>it is vulgarly ſaid, that one Tongue is enough for a VVoman, and the</hi> Spa<g ref="char:EOLhyphen"/>niards <hi>do ſo ſtomack it, that VVomen ſhould be learned in ſeveral Langua<g ref="char:EOLhyphen"/>ges, that they will not ſo much as ad<g ref="char:EOLhyphen"/>mit they ſhould have any</hi> Latine; <hi>therefore they ſay in their Proverb.</hi> De Mula que haze hin, y muger que habla Latin guarte. <hi>Take heed of a</hi> winching <hi>Mule, and a Latine Woman, and hear what a mo<g ref="char:EOLhyphen"/>dern writer of our own Country ſaith, one of the</hi> Minor <hi>Poets at leaſt; whoſe Verſes in Engliſh run thus.</hi>
+               </p>
+               <q>
+                  <l>You wiſh me to a Wife rich, fair and young,</l>
+                  <l>That had the <hi>Spaniſh, French</hi> and <hi>Latine</hi> tongue.</l>
+                  <l>
+                     <pb n="6" facs="tcp:152302:9"/>I thank you Sir, for I will have none ſuch</l>
+                  <l>I think one Language will be tongue too much.</l>
+                  <l>Then love you not the Learned? As my life</l>
+                  <l>The learned Scholar, not the learned Wife.</l>
+               </q>
+            </sp>
+            <sp>
+               <speaker>Terp.</speaker>
+               <p>It is an hard and unjuſt ſen<g ref="char:EOLhyphen"/>tence in you men towards us to doom our ſex to the wheel altoge<g ref="char:EOLhyphen"/>ther, as if we were fit for nothing but to ſpin, and <hi>prick</hi> in a Clout; whereas we are capable of more ſublime things: I know it is com<g ref="char:EOLhyphen"/>monly toſt up and down in the Mouths of the Vulgar, as you ſay, that one Tongue is enough for a Woman: In ſome ſenſe I grant it is true, that is, where there is not prudence to regulate and moderate our words and actions; and in that
+<pb n="7" facs="tcp:152302:9" rendition="simple:additions"/>
+caſe for all as I know, one Tongue may be too much. But diſcretion doth not conſiſt ſo much in ſpeak<g ref="char:EOLhyphen"/>ing few words, as no ſuperfluous or impertinent ones. Therefore ma<g ref="char:EOLhyphen"/>ny tongues are no harm, if we know <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> as the moraliſt Plutarch hath it. Parts both natural and acquired in Women, and good qualities make their Company acceptable, where<g ref="char:EOLhyphen"/>as it would be an inſupportable burthen for men to ſtay long with us, if we did twattle about nothing, but what <hi>Bands</hi> or <hi>Gowns</hi> were in faſhion, or ſuch like <hi>Gew-Gaw</hi> things, and affected nothing but to beſmear our Faces with paint, which is the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> of an unſanctifyed Mind, and is altogether inconſiſtent with that profeſſion we make of Sanctity; yea truly 'tis a great ſcan<g ref="char:EOLhyphen"/>dal to the precious people of God in all places, and argues a Woman
+<pb n="8" facs="tcp:152302:10" rendition="simple:additions"/>
+to be very immodeſt, I remember what the Italians ſay of ſuch an one. <hi>Donna che ſi liſcia Vuol far al<g ref="char:EOLhyphen"/>tro che la piſcia:</hi> and likewiſe it is as great an offence to the Saints, to ſee ſome of our ſex (which is a thing that I could wiſh was not ſo commonly practiſed among us) to beſprinkle our faces with <hi>Patches,</hi> which ſhew as a good Author ſaith wittily; that there is a <hi>Roome to be Let, by the Bill on the door:</hi> I ſay, ſhould we affect nothing elſe but theſe things, and to appear in a new Habit or Dreſs every day, or as if we were nothing elſe but a kind of walking Mercers ſhops, and were born and ſhaped for our Clothes, and conſequently if <hi>Eve</hi> had not fallen had lived to no pur<g ref="char:EOLhyphen"/>poſe: What delight would ſober perſons (think you) take in our Company? We labour under a great infamy in this kind, it is ſaid
+<pb n="9" facs="tcp:152302:10" rendition="simple:additions"/>
+we have got ſuch a <hi>trick,</hi> to be ſo long a <hi>tricking</hi> our ſelves up, that half a day is ſcarce ſufficient to make our ſelves ready; and there<g ref="char:EOLhyphen"/>fore old <hi>Terence,</hi> that knew well enough how to ſpeak true Latine, and ſo was well enough acquainted with the <hi>Foeminine Gender</hi> ſaith; <hi>Dum moliuntur, dum comuntur, An<g ref="char:EOLhyphen"/>nus eſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mim.</speaker>
+               <p>
+                  <hi>Herein I do agree with you</hi> Terpole, <hi>that the knowledg of any thing that is good is ſo far from being a burthen, that it ſets a luſtre on, and is an Ornament to the perſons that are endued with it, And I know no rea<g ref="char:EOLhyphen"/>ſon why Women ſhould be barred from Cultivating their minds vvith Ver<g ref="char:EOLhyphen"/>tue and knowledg, vvhich if they do ſeriouſly endeavour, (be it ſpoken without flattery) I verily believe they are capable of as many vertues as men, and what if I ſhould ſay may exceed them; for they are of a finer mould
+<pb n="10" facs="tcp:152302:11"/>
+and temper than Men; for whereas Man was made of the duſt or ſlime, of the Earth or Red Earth; Woman was made of the duſt or ſlime refined, ſhe is ſo curiouſly and exquiſitely wrought, that it is ſaid in Holy Writ,</hi> Gen. 2.22. <hi>That God Built her, for ſo you have it in the Original, though we tranſlate it made her. Which implyes what an admirable ſtructure was reared up when ſhe was made; as if ſhe was Gods Maſter-piece, and that he ſhewed his chiefeſt skill in her con<g ref="char:EOLhyphen"/>trivance, you ſee then what a curious piece of work VVoman is, (and not<g ref="char:EOLhyphen"/>withſtanding the vilifying and ſatyri<g ref="char:EOLhyphen"/>cal expreſſions of ſome malevolent per<g ref="char:EOLhyphen"/>ſons, who though they love them well enough while they are pleaſured by them, yet when that is over, they take a pleaſure to ſpeak evil, and write de<g ref="char:EOLhyphen"/>faming Libels againſt them, ſuch is that of the</hi> Italians, Se la Donna foſſe piccola come é buona, la mi<g ref="char:EOLhyphen"/>nima
+<pb n="11" facs="tcp:152302:11"/>
+ſoglia le farebbe una veſte &amp; una Corona. <hi>i. e.</hi>
+               </p>
+               <q>
+                  <l>Were a Woman as little as ſhe's good</l>
+                  <l>A Peſcod would make her a Cap and Hood,</l>
+               </q>
+               <p>
+                  <hi>Notwithſtanding (I ſay) this and ſuch like</hi> Sarcaſmes <hi>(which are more wor<g ref="char:EOLhyphen"/>thy of contempt than any confutation) it is evident enough they are ſuſcepti<g ref="char:EOLhyphen"/>ble of all excellent qualifications, and if it were fit to ſupport ſo known a Truth, with ſo weak a Prop as fiction is, I would refer thoſe that doubt of it, to the Poets Nine Muſes, to which we aſcribe the invention of Arts. But there is a real exemplification of this in</hi> Anna Maria à Schurman; <hi>though ſhe was of no great ſtature of Body, to what an Altitude and Procerity of Knowledg did ſhe grow to; ſhe was a Paragon for many incomparable Qua<g ref="char:EOLhyphen"/>lities
+<pb n="12" facs="tcp:152302:12" rendition="simple:additions"/>
+and Vertues, that ſhe was adorn<g ref="char:EOLhyphen"/>ed with. She writ</hi> Latine <hi>ſo elegantly and politely, as none exceeded her; as appears by her Works in Print: In which are many Epistles to ſeveral Learned Men, moſt in</hi> Latine, <hi>ſome in</hi> Hebrew, Greek, <hi>and</hi> French: <hi>She was even</hi> ad ſtuporem Docta. <hi>See what an Honourable Elogy</hi> Salma<g ref="char:EOLhyphen"/>ſius <hi>gives of her, which is Printed with her Works. She had a tranſcendent faculty in</hi> Limning, engraving, <hi>and a curious Hand at Needle-work; ſo that the Cloth ſhe wrought upon even ſeemed to pride it ſelf, in being</hi> prickt <hi>and</hi> wounded <hi>by ſuch an Hand. There are many other Women of other Na<g ref="char:EOLhyphen"/>tions, that are qualified with rare and ſingular endowments of Mind; as that great</hi> Heroina <hi>the</hi> Dutcheſs <hi>of</hi> Newcaſtle; <hi>whoſe Name will be eternized after her Death, by thoſe living Monuments of her Books.</hi>
+               </p>
+               <p>
+                  <hi>But what ſhall I ſay, or rather what
+<pb n="13" facs="tcp:152302:12"/>
+ſhall I not ſay (if I had a</hi> Copia Verborum <hi>ſufficient for ſuch an un<g ref="char:EOLhyphen"/>dertaking) of</hi> Elizabeth <hi>Queen of</hi> England; <hi>who (although ſhe was not in Communion with the</hi> Roman Church) <hi>was a Peerleſs Pearl of Vir<g ref="char:EOLhyphen"/>tue, and all excellent and admirable Sciences, the great VVonder of her Sex.</hi>
+               </p>
+               <p>
+                  <hi>What Language was there ſo diffi<g ref="char:EOLhyphen"/>cult, that ſhe did not attain to, and that in perfection. Mr.</hi> Aſcham <hi>who was one among the reſt that inſtructed her, hath for the perpetuating her Memory left it upon Record, that ſhe read more</hi> Greek <hi>in one Day, than many great Doctors did read</hi> Latine <hi>in an whole Week. But I ſhall ſay no more in a</hi> Panegyrical <hi>way of her, leſt I ſhould Eclipſe the ſplendour of her unexampled glorious actions with my unpoliſhed lines, and indeed what Tongue can ſufficiently expreſs the Grandeur of her unparelled perfections.</hi>
+               </p>
+               <q>
+                  <pb n="14" facs="tcp:152302:13"/>
+                  <lg>
+                     <l>
+                        <hi>Una loqui te Lingua nequit, quae laudis opimae</hi>
+                     </l>
+                     <l>
+                        <hi>Materiam linguis omnibus una dabas.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>One Tongue in Praiſe of thy great worth's to weak</l>
+                     <l>Which yields full matter for all Tongues to ſpeak.</l>
+                  </lg>
+               </q>
+               <p>
+                  <q>There are ſome other Women that I could mention, though not that excell in the knowledge of <hi>Tongues,</hi> (for indeed ſince Men are ſo ill affected to their <hi>Tonguing</hi> of it ſo much, they have lay'd a<g ref="char:EOLhyphen"/>ſide the ſtudy of <hi>Languages.</hi>) Yet are adorned with many eminent qualities. But they being now living, their Modeſty will not ſuf<g ref="char:EOLhyphen"/>fer them to hear their own com<g ref="char:EOLhyphen"/>mendations, and ſo I ſhall forbear to name them: by what I have
+<pb n="15" facs="tcp:152302:13" rendition="simple:additions"/>
+ſaid then, I think it is apparent enough that Nature, or rather the God of Nature hath not denyed Women parts and abilities, ſuffi<g ref="char:EOLhyphen"/>cient for the acquiring the higheſt attainments and perfections that Men are capable of; and that all kind of <hi>Knowledge</hi> and <hi>Virtue</hi> is as commendable in them as in Men. Therefore I cannot but Judge that Satyrical ſcomm that <hi>Francis</hi> Duke of <hi>Brittany,</hi> uſed concerning <hi>Iſabella</hi> the Daughter of <hi>Scotland,</hi> ſavoured more of an <hi>humour</hi> than <hi>reaſon;</hi> who when he underſtood that ſhe had been ſtudious, and was <hi>learned,</hi> ſaid, that a Woman was knowing e<g ref="char:EOLhyphen"/>nough, when ſhe knew the dif<g ref="char:EOLhyphen"/>ference between her own <hi>Smock,</hi> and her husbands <hi>Doublet.</hi>
+                  </q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Terp.</speaker>
+               <p>I am glad ſince you have diſſented from me all along in our former diſſertations, that now at
+<pb n="16" facs="tcp:152302:14"/>
+length we meet in <hi>Vno tertio,</hi> And I give you many thanks for the right you have done our Sex.</p>
+            </sp>
+            <sp>
+               <speaker>Mim.</speaker>
+               <p>
+                  <hi>I hope the reſt of the Siſters will have the ſame</hi> Sentiment, <hi>that you have, of my good inclinations to<g ref="char:EOLhyphen"/>wards them, and that they will ſhew their forwardneſs upon occaſion to</hi> pleaſure <hi>me, when I ſtand in need of them; but it comes into my Mind</hi> Terpole <hi>to ask you another Queſtion; which I had almoſt forgot: Since you have vvaded through the knowledge of ſo many</hi> Tongues; <hi>Did you not learn</hi> Hebrew <hi>too among the reſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Terp.</speaker>
+               <p>Yes I did learn that too, ſo far as to read it, and to give the Grammatical Conſtruction of two or three of <hi>Davids Pſalms:</hi> for it being the holy Tongue, the primi<g ref="char:EOLhyphen"/>tive Tongue, and the Language that God revealed his Will to us in the old Teſtament, I thought it was worth my enquiry into it.</p>
+            </sp>
+            <sp>
+               <pb n="17" facs="tcp:152302:14" rendition="simple:additions"/>
+               <speaker>Mim.</speaker>
+               <p>
+                  <hi>But there is another reaſon which you have omitted, that ſeems to carry a great deal of force with it, and might induce you to love this Tongue more than any other, and that is, be<g ref="char:EOLhyphen"/>cauſe it hath more Cognation and Af<g ref="char:EOLhyphen"/>finity with your ſex than any other, for it is to be read from the Right Hand to the Left, and thereupon a good Author ſaith, that</hi> Women <hi>and</hi> Hebrew <hi>are much alike, they are beſt when read</hi> backward.</p>
+            </sp>
+            <sp>
+               <speaker>Terp.</speaker>
+               <p>You are ſtill for your Puns and Joques, but to be ſerious: I wonder that ſince the <hi>Hebrew</hi> tongue is of ſuch antiquitie, and condu<g ref="char:EOLhyphen"/>ces ſo much to the right under<g ref="char:EOLhyphen"/>ſtanding of <hi>Scripture,</hi> that it ſhould be ſo much vilipended, yea and ex<g ref="char:EOLhyphen"/>ploded too, and that by Men, who would fain have the World believe that they are not inferiour to any for learning.</p>
+            </sp>
+            <sp>
+               <pb n="18" facs="tcp:152302:15"/>
+               <speaker>Mim.</speaker>
+               <p>
+                  <q>There is no other ac<g ref="char:EOLhyphen"/>count to be given of this, but that it proceeds from ignorance and Envy, for thoſe perſons that do contemn it, are (as the Elegant Moraliſt <hi>Plutarch</hi> expreſſes it) like thoſe that are troubled with blear Eyes <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> who cannot look upon any bright thing without great offence: Such think to raiſe themſelves to the <hi>Zenith</hi> of an huge <hi>Reputation</hi> by cenſuring and eclipſing of others that know more than they: Theſe perſons deſerve to be ſeverely laſhed, but that I conceive 'twill be time mi<g ref="char:EOLhyphen"/>ſpent they are ſo <hi>incorrigible:</hi> I ſhall ſay no more now concerning ſuch but this: They being <hi>Blind</hi> ſtand more in need of <hi>pitty</hi> than <hi>reproof,</hi> and being they refuſe to have their Eyes opened, and be led by Counſel; a Dog with
+<pb n="19" facs="tcp:152302:15"/>
+Bell about his Neck is fitter for them than good advice; only in compaſſion to them, I could find in my Heart to ſound forth that doleful <hi>Ditty</hi> commonly uſed by Perſons deprived of their ſight. <hi>Good people pitty the Blind.</hi> But notwithſtanding the knowledg of this Tongue is ſo decryed and de<g ref="char:EOLhyphen"/>pretiated by ſuch men, it is of great account among others that know how to value things right<g ref="char:EOLhyphen"/>ly, and thought to be very uſeful; for the Ignorance of this Tongue hath been the occaſion of many Errors not only in <hi>Learning</hi> but in <hi>Religion</hi> too; for want of un<g ref="char:EOLhyphen"/>derſtanding the Equivocal word <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> which ſignifies both an <hi>Horn</hi> and <hi>Light,</hi> or <hi>Brightneſs</hi> as you find it 34 <hi>Exodus v</hi> 29. <hi>Moſes</hi> moſt ridiculouſly is painted with <hi>Horns,</hi> which is the cauſe of great laughter to the <hi>Jews</hi> and <hi>Arabians,</hi>
+                     <pb n="20" facs="tcp:152302:16"/>
+to ſee the <hi>Venerable</hi> old Prophet Metamorphoſed into a <hi>Corniſh Knight.</hi> If all Men were as fottiſh and ignorant as ſome are, what would have become of us (think you) as to the Holy <hi>Bible,</hi> ſhould we have received it without a great deal of mixture and corrup<g ref="char:EOLhyphen"/>tion? No ſurely, it is the <hi>Jewes</hi> care and zeal that we are be<g ref="char:EOLhyphen"/>holding to, for preſerving it in its native <hi>purity;</hi> they were ſo ſtrict and rigid in this kind that it is written in <hi>Baba Bathra</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>i. e. Joab</hi> killed his Maſter becauſe he did the work of the Lord negligently, he reading <hi>Deuteronomy c.</hi> 25. <hi>v.</hi> 19. <hi>Tinichi Zachar Amalec,</hi> h. e. <hi>delebis maſculum Amalec,</hi> when he ought to have read <hi>Zecher Amalec,</hi> h. e. <hi>memoriam Amalec.</hi> This ſto<g ref="char:EOLhyphen"/>ry too St. <hi>Hierom</hi> records as a very memorable thing, (if I be not
+<pb n="21" facs="tcp:152302:16"/>
+miſtaken) in his expoſition of the Sixth Chapter of <hi>Iſaiah:</hi> Now you ſee by this, how neceſſary the knowledge of this <hi>Hebrew</hi> tongue is, eſpecially for men, and it would do no harme, if Women had a little <hi>ſmack</hi> of it, as you ſay <hi>Terpole</hi> you have) but your <hi>Smock</hi> Madam is more taking with Gallants: But ſtay! Where do we ramble; this diſcourſe of <hi>Lan<g ref="char:EOLhyphen"/>guages</hi> was a thing <hi>Obiter</hi> mentio<g ref="char:EOLhyphen"/>ned, and not mainly intended therefore I muſt remind you, of what paſt before, in reference to the <hi>Lecture:</hi> You told me I re<g ref="char:EOLhyphen"/>member who it was you heard at the <hi>Lecture,</hi> but you did not ac<g ref="char:EOLhyphen"/>quaint me with the Subject matter of his <hi>Diſcourſe.</hi> Therefore I pray tell me now what Doctrine did this <hi>Stan-hup</hi> you ſpoke of be<g ref="char:EOLhyphen"/>fore <hi>Teach,</hi> or rather prattle.</q>
+               </p>
+            </sp>
+            <sp>
+               <pb n="22" facs="tcp:152302:17" rendition="simple:additions"/>
+               <speaker>Terp.</speaker>
+               <p>I muſt once again correct you, for now you don't only make a mock of <hi>Religion,</hi> but alſo ſpeak very improperly, when you call it <hi>Teaching.</hi> For we of the <hi>Conjugati<g ref="char:EOLhyphen"/>onal Way,</hi> term it <hi>Holding Forth.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mim.</speaker>
+               <p>
+                  <q>This is an heavy charge, though I doubt not but to clear my ſelf from the firſt imputation, <hi>viz.</hi> of flouting at <hi>Religion,</hi> al<g ref="char:EOLhyphen"/>though perhaps not from the ſe<g ref="char:EOLhyphen"/>cond part of my charge as to im<g ref="char:EOLhyphen"/>propiety of <hi>ſpeech.</hi>
+                  </q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Terp.</speaker>
+               <p>
+                  <hi>But I hardly believe you can do either, you are ſo obnoxious..</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mim.</speaker>
+               <p>I ſay as to the firſt part of my charge, of ſcoffing at <hi>Religon</hi> in <hi>Truth,</hi> I plead not <hi>guilty,</hi> but as for this <hi>Mock</hi> Religion of <hi>Conventicling</hi> if I do make a Mock of it, it is no great crime for it is but an holy Cheat at beſt; who indeed can re<g ref="char:EOLhyphen"/>frain from laughter, to hear ſuch poor, Jejune, flat and impertinent
+<pb n="23" facs="tcp:152302:17" rendition="simple:additions"/>
+expreſſions, Tautologies, a Myri<g ref="char:EOLhyphen"/>ad, with a Company of wyer drawn Metaphors, and holy Knick-knacks and conceits, extemporary effuſi<g ref="char:EOLhyphen"/>ons, ſanctifyed non-ſenſe, and ridi<g ref="char:EOLhyphen"/>culous Fopperies, which flow from ſuch Pulpiteers Mouths; as inſenſi<g ref="char:EOLhyphen"/>bly and eaſily as excrements from ſome ſick perſons. I profeſs for my part, I think it is time miſpent to hear ſuch, and that one had bet<g ref="char:EOLhyphen"/>ter be imployed in picking of <hi>ſtraws</hi> or as the Emperour <hi>Domitian,</hi> in catching of <hi>Flyes</hi> by an Hour Glaſs, (who was truly therefore ſtyled, an Enemy to Flies and a Fly to his Enemies) then to ſit two or three Hours, to hear ſuch pitiful Non<g ref="char:EOLhyphen"/>ſenſical, and ſometimes blaſphe<g ref="char:EOLhyphen"/>mous ſtuffe. But as to the ſecond part of my charge, I do agree that word you uſe, might be more pro<g ref="char:EOLhyphen"/>per, of <hi>Holding forth;</hi> for the Si<g ref="char:EOLhyphen"/>ſterhood don't love obſcure myſte<g ref="char:EOLhyphen"/>rious
+<pb n="24" facs="tcp:152302:18" rendition="simple:additions"/>
+things, that need <hi>unfolding,</hi> but are for <hi>down-right</hi> Truths <hi>plain<g ref="char:EOLhyphen"/>ly laid open,</hi> for Truth and Women are much alike, <hi>Truth</hi> is beſt <hi>Na<g ref="char:EOLhyphen"/>ked,</hi> and ſo are <hi>Women;</hi> they are moſt <hi>ready,</hi> when they are <hi>unready,</hi> therefore ſome <hi>Lywers</hi> will not ad<g ref="char:EOLhyphen"/>mit of the word <hi>Notwithſtanding</hi> in a Joynture, but inſtead thereof put in <hi>alvvayes provided.</hi>
+               </p>
+               <p>Nakedneſs is that which reſtores Women to themſelves, for the va<g ref="char:EOLhyphen"/>rious dreſſings of all Nations do ſtrangely diſguiſe them, ſo that they muſt put off their <hi>Maſquin Ha<g ref="char:EOLhyphen"/>bits,</hi> or be taken to pieces like <hi>Watches,</hi> e're they can be enjoyed: Now we cannot do Women great<g ref="char:EOLhyphen"/>er right, than to be Judged by one Rule; then do but once <hi>uncloth</hi> Women, and they are all the <hi>ſame. Comines</hi> tells us, that a Princeſs be<g ref="char:EOLhyphen"/>ing upon the point of Marriage, appeared in a <hi>Lawn Smock,</hi> to be
+<pb n="25" facs="tcp:152302:18" rendition="simple:additions"/>
+viewed by Ambaſſadors, and ſaid, ſhe would <hi>put off</hi> that too if <hi>requi<g ref="char:EOLhyphen"/>ſite.</hi> Thus you ſee Nakedneſs is a ſure Rule for the preventing of mi<g ref="char:EOLhyphen"/>ſtakes, for every Woman out of her Cloathes is of the <hi>ſame faſhion,</hi> but this will not be believed by <hi>Gallants</hi> but they will Coaſt about the <hi>Mi<g ref="char:EOLhyphen"/>crocoſme</hi> of Women, and ſo inſati<g ref="char:EOLhyphen"/>ate they are in their deſires, that they would willingly <hi>try</hi> all, <hi>omnem movebunt lapidem,</hi> they will leave no <hi>ſtone unturned</hi> at Whetſtones-Park, until they <hi>touch</hi> upon the new found <hi>Iſland,</hi> (as they fancy) when as indeed it is as commonly known as the <hi>Iſle of Man;</hi> and hath no relation at all to <hi>Terra incognita:</hi> but the frequent ſpeculation of an <hi>Idea</hi> ſtimulates Men to the enjoyment of a thing, which when enjoyed they find to conſiſt more in <hi>imagi<g ref="char:EOLhyphen"/>nation</hi> than <hi>reality;</hi> like the <hi>Incubus</hi> or Night-Mare in a Dream, you
+<pb n="26" facs="tcp:152302:19" rendition="simple:additions"/>
+imagine it a <hi>VVeight,</hi> you Graſp at it, and awake, and 'tis <hi>nothing.</hi> Plea<g ref="char:EOLhyphen"/>ſure in this kind is a <hi>Juno</hi> in the pur<g ref="char:EOLhyphen"/>ſuit, and but a <hi>Cloud</hi> in the Enjoy<g ref="char:EOLhyphen"/>ment: It is but a meer Dream, or ſhadow of a Dream rather. In <hi>Ae<g ref="char:EOLhyphen"/>gypt</hi> there was a young man that had a marvellous fancy unto a famous <hi>Courtiſan</hi> called <hi>Thonis,</hi> who did ask him ſuch a great ſumm of Mo<g ref="char:EOLhyphen"/>ney to lye with her, that it was im<g ref="char:EOLhyphen"/>poſſible for him to give it; at length this Youth being ſo deep in love with her, dreamt one Night, he lay with her, and enjoyed her: This <hi>Courtiſan</hi> whom he had taken ſuch a fancy to, hearing of this his Dream did put him in ſuit before the Judg<g ref="char:EOLhyphen"/>es, to be paid her Hire, for the pleaſure the young man had taken of her by imagination: <hi>Bocchoris</hi> hearing the ſumm of her com<g ref="char:EOLhyphen"/>plaint, commanded the young man to bring before him in ſome Veſſel,
+<pb n="27" facs="tcp:152302:19" rendition="simple:additions"/>
+at a certain day appointed, as much money as ſhe did ask him for to lye with her; then he bad him toſs it to and fro in his Hand before the <hi>Courtiſan,</hi> that ſhe might have the ſhadow and ſight of it; for (quoth he) imagination and opinion is but a ſhadow of Truth. But ſtill ſup<g ref="char:EOLhyphen"/>poſing this young man had really his deſires fulfilled, yet he would have found, they had been more in imagination than in Truth, for <hi>Opinion</hi> is the <hi>Shop</hi> of pleaſures, where they are at firſt forged, and receive their birth, and as they are generated of an Airy <hi>Phantoſme,</hi> ſo they dye in a fume, and diſperſe in<g ref="char:EOLhyphen"/>to <hi>nothing.</hi> (But hold) I fear I ſhall run out too far upon this point, and be guilty of a digreſſion; therefore I muſt look a little back, and recollect my ſelf: You may re<g ref="char:EOLhyphen"/>member I told you the Siſters are for <hi>Down-right</hi> Truths, plainly laid
+<pb n="28" facs="tcp:152302:20" rendition="simple:additions"/>
+open, and you know Women are counted beſt on the <hi>ſudden,</hi> and therefore do'nt love a perſon, that is long before he comes to <hi>duty;</hi> like thoſe diſſenting Brethren of the <hi>Conventicling</hi> perſwaſion, who are wont to uſher in a trite com<g ref="char:EOLhyphen"/>mon notion with an huge Auguſt Preface: Juſt ſo a Brother of the ſame opinion did lately, who teach<g ref="char:EOLhyphen"/>ing the Brotherhood and Siſter<g ref="char:EOLhyphen"/>hood, ſpake thus. It was well ſaid of as great a Divine as ever <hi>Europe</hi> brought forth: Nay if you will be<g ref="char:EOLhyphen"/>lieve <hi>Gregory Nazianzen,</hi> and he was a man of a celebrated fame for all abſtruſe Learning, it was not only well ſaid, but it was very well ſaid; that, <hi>Faith</hi> is <hi>good</hi> if it be a <hi>good Faith:</hi> But I remember how much this tedious <hi>Fumbler,</hi> was diſreliſhed by the Holy Siſters, for they like thoſe beſt, that come to the <hi>point</hi> quickly; (the <hi>Vertical</hi>
+                  <pb n="29" facs="tcp:152302:20" rendition="simple:additions"/>
+point I mean) which by a Trope, or <hi>Stylo Novo,</hi> may be called <hi>Turn-Style;</hi> becauſe there are more ways to the wood than one; but whe<g ref="char:EOLhyphen"/>ther you go this way, or that way, ſtill 'tis the ſame thing, to wit a <hi>thing</hi> of <hi>nothing;</hi> for take the whole and yet you have not enough, nor they I warrant you, for <hi>Women, Prieſts and Poultry never have enough;</hi> (as is commonly ſaid) and although it is a vulgar ſaying, that <hi>Virtus con<g ref="char:EOLhyphen"/>ſiſtit in medio,</hi> it is not ſo in this <hi>middle</hi> though it be the beſt part of the Female Sex, according to the French Adage. <hi>Des femmes &amp; des poiſſons, le milieu vaut le mieux, i. e.</hi> Of Women and Fiſh the mid<g ref="char:EOLhyphen"/>dle is beſt.</p>
+            </sp>
+            <sp>
+               <speaker>Terp.</speaker>
+               <p>
+                  <hi>I cannot paſs by ſome things you ſay in defenſe of your ſelf, with<g ref="char:EOLhyphen"/>out a ſevere Caſtigation, you call thoſe precious, Soul-piercing, yea Soul-ſa<g ref="char:EOLhyphen"/>ving, heart-breaking, ſin-deſtroying,</hi>
+                  <pb n="30" facs="tcp:152302:21" rendition="simple:additions"/>
+                  <hi>faith-confirming Truths; poor, flat, jejune, impertinent, ſeditious and blaſ<g ref="char:EOLhyphen"/>phemous things; this</hi> verily, <hi>is a groſs Error in you: For they that</hi> Hold-forth <hi>to us are men of ſuch courage and zeal, that when we are e'ne ſunk in our ſpirits for want of meet</hi> helps, <hi>they keep us from deſpair, nay they are</hi> Boanerges's <hi>ſons of</hi> Thunder.</p>
+            </sp>
+            <sp>
+               <speaker>Mim.</speaker>
+               <p>I grant they are Sons of Thunder in ſome ſenſe, but inſtead of <hi>Soul-ſaving</hi> Truths (as you call them) that you pretend they ſhould deliver, they thunder out <hi>Soul-de<g ref="char:EOLhyphen"/>ſtroying; State-diſturbing, King-re<g ref="char:EOLhyphen"/>viling Doctrine,</hi> and are ſo <hi>power<g ref="char:EOLhyphen"/>ful</hi> in their <hi>Holding Forth</hi> this. And <hi>ſomething</hi> elſe that I could tell you of, (if I were minded) that the <hi>Si<g ref="char:EOLhyphen"/>ſters,</hi> cannot but <hi>fall</hi> before them as <hi>Lightning,</hi> they being Women of <hi>extraordinary humility</hi> and <hi>lowli<g ref="char:EOLhyphen"/>neſs,</hi> having heretofore in the days of Uſurpation, and in times of dark<g ref="char:EOLhyphen"/>neſs,
+<pb n="31" facs="tcp:152302:21"/>
+petitioned the ableſt <hi>Mem<g ref="char:EOLhyphen"/>bers,</hi> that they would be pleaſed to <hi>Stand</hi> unto them ſhewing a great readineſs at all <hi>times,</hi> eſpecially in theſe dayes of more <hi>light,</hi> or ra<g ref="char:EOLhyphen"/>ther more <hi>light</hi> dayes, to <hi>lay down</hi> themſelves with their <hi>hole</hi> ſtubſtance; and now there is no great fear that they will <hi>Apoſtatize</hi> from their firſt principles, although nature may be ſo prevailing in them, that they may <hi>Fall back</hi> a little.</p>
+            </sp>
+            <sp>
+               <speaker>Terp.</speaker>
+               <p>
+                  <hi>You will never leave your Drolling</hi> (Mimologue) <hi>'tis ſtrange you ſhould affect, this ſcurrilous, ſar<g ref="char:EOLhyphen"/>caſtical way.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mim.</speaker>
+               <p>Come, Come <hi>Terpole</hi> for all you look ſo demurely, and ſpeak ſo preciſely, as if you were ſuch a Saint: Yea, though you turn up the <hi>white</hi> of your Eyes, and make ſuch a <hi>ſhew;</hi> yet if my skil do'nt fail me in Phyſiognomy, you look as if you would <hi>turn up</hi> ſom<g ref="char:EOLhyphen"/>thing
+<pb n="32" facs="tcp:152302:22"/>
+elſe too, provided it be done in due time and place, and ſo no ſcandal to the <hi>ſtrait-laced</hi> Siſters; Come, you ſee I know you a lit<g ref="char:EOLhyphen"/>tle, you are <hi>Piſello di buona cucina</hi> as the <hi>Italian</hi> Idiom is; you are looſe in the Hilts I'le warrant you, and now I hope I <hi>touch</hi> you to the quick: I do the rather uſe this <hi>Gibing</hi> way: (which you charge upon me as a fault it ſeems) becauſe I would fain laugh you out of that ſilly <hi>ram<g ref="char:EOLhyphen"/>bling</hi> humour of yours, that when you have a good <hi>Orthodox</hi> Preach<g ref="char:EOLhyphen"/>er in your own Pariſh, you ſhould leave him, and go a Pilgrimage two or three Miles, (it may be) to bear ſuch pitiful, nonſenſical men keep a babling, who beat upon the <hi>Cuſhion,</hi> more than their <hi>Text,</hi> and make the <hi>Pulpit</hi> groan more than their <hi>Hearers,</hi> whom you of the Siſterhood admire, becauſe he de<g ref="char:EOLhyphen"/>livers all he ſaith by heart: Oh ſay
+<pb n="33" facs="tcp:152302:22"/>
+they, a <hi>rare</hi> man, he never looks upon a <hi>Book,</hi> and indeed 'tis no marvel, for 'twas a thing he never was <hi>uſed</hi> to. I'le hold you a good wager <hi>Terpole,</hi> that I'le make a better Sermon that never preached in my life, than any of thoſe ſono<g ref="char:EOLhyphen"/>rous <hi>Pulpit-Thumpers,</hi> you uſe to hear, and ſo work upon the Siſters by my Doctrine, and <hi>overcome</hi> them ſo, that they will be more ready than in times of yore, when the old <hi>luſty puſs</hi> was ſtarted, (the good old Cauſe I mean) to bring in their Bodkins, Thimbles, and Marriage-Rings, and all that they have, and lay them down and <hi>them<g ref="char:EOLhyphen"/>ſelves</hi> holy at my Devotion.</p>
+            </sp>
+            <sp>
+               <speaker>Terp.</speaker>
+               <p>
+                  <hi>Here is</hi> multum clamoris ſed parum lanae <hi>(as they ſay) great boaſt but little roaſt I'le warrant you.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mim.</speaker>
+               <p>Well, come and try and bring ſome of the Siſters with you and I'le exerciſe them to purpoſe.</p>
+            </sp>
+            <sp>
+               <pb n="34" facs="tcp:152302:23"/>
+               <speaker>Terp.</speaker>
+               <p>
+                  <hi>By my truly I could find in my Heart to come if you be in ear<g ref="char:EOLhyphen"/>neſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mim.</speaker>
+               <p>Do'nt doubt that, for I am ſerious, but remember then to come, <hi>Die veneris</hi> which is to mor<g ref="char:EOLhyphen"/>row at Nine of the Clock in the Morning, (for I am beſt at morn<g ref="char:EOLhyphen"/>ing exerciſe) to <hi>Grubſtreet</hi> at the Signe of the <hi>Naked</hi> Woman, becauſe that is a very convenient <hi>Conventi<g ref="char:EOLhyphen"/>cling</hi> place, and I'le be ſure to keep <hi>touch</hi> with you, in the mean time I'le bid you farwell.</p>
+            </sp>
+            <sp>
+               <speaker>Terp.</speaker>
+               <p>
+                  <hi>I can</hi> hold up <hi>no longer now 'tis ſo late, 'tis twelve a Clock for this Night I verily believe, there<g ref="char:EOLhyphen"/>fore I must go ſleep.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mim.</speaker>
+               <p>Good Night to you <hi>Ter<g ref="char:EOLhyphen"/>pole;</hi> I'le leave you to your reſt.</p>
+            </sp>
+            <sp>
+               <speaker>Terp.</speaker>
+               <p>
+                  <hi>I wiſh you a good Nights reſt</hi> Mimologue, <hi>but remember your promiſe of exerciſing to morrow.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="35" facs="tcp:152302:23"/>
+               <speaker>Mim.</speaker>
+               <p>I'le warrant you, do'nt fear it, but I will be punctual.</p>
+            </sp>
+            <sp>
+               <speaker>Corina.</speaker>
+               <p>
+                  <hi>Good morrow Sir, are you Mr.</hi> Morologue.</p>
+            </sp>
+            <sp>
+               <speaker>Mim.</speaker>
+               <p>I am no <hi>more</hi> a <hi>Logg</hi> than your ſelf, my Name is <hi>Mimo<g ref="char:EOLhyphen"/>logue.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <p>
+                  <hi>Pardon the miſtake of your Name Sir, you are the perſon intend<g ref="char:EOLhyphen"/>ed.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mim.</speaker>
+               <p>Well! Go on, what is your buſineſs with me.</p>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <p>
+                  <hi>My Miſtriſs Madam</hi> Ter<g ref="char:EOLhyphen"/>pole <hi>ſent me to know whether you were come, and were ready to exer<g ref="char:EOLhyphen"/>ciſe here, as you promiſed: ſhe being at the next door, at the Sign of the</hi> Green-Gown.</p>
+            </sp>
+            <sp>
+               <speaker>Mim.</speaker>
+               <p>Let her know, I have been here this half Hour, and come as
+<pb n="36" facs="tcp:152302:24" rendition="simple:additions"/>
+well <hi>provided</hi> as I could in ſo ſhort a time.</p>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <p>
+                  <hi>I ſhall readily perform your commands; your ſervant Sir.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mim.</speaker>
+               <p>Farewell ſweet Heart.</p>
+            </sp>
+            <sp>
+               <speaker>Mim.</speaker>
+               <p>Hoh! Good morrow <hi>Terpole,</hi> you are come I ſee with the Brethren and Siſters, you have brought to hear me: Well I am none of the beſt gifted, but I'le perform as well as I can. I pray walk into the next Room, becauſe that is moſt convenient for the purpoſe: So 'tis well! now the com<g ref="char:EOLhyphen"/>pany is come together I'le begin; My <hi>Beloved, prick</hi> up your ears, and hearken with all diligence as you ſhall find it <hi>Written</hi> for your inſtruction in the Second Book of <hi>Pſeudology Cap.</hi> 3. <hi>v.</hi> 30. in theſe words Oh <hi>that men were wiſe, and would conſider what pleaſure and profit, there
+<pb n="37" facs="tcp:152302:24"/>
+is in Lying and they would never ſpeak Truth again:</hi> Now beloved if you would find me hereafter, ne<g ref="char:EOLhyphen"/>ver look for me in the <hi>Text,</hi> for it may be I may never come at it a<g ref="char:EOLhyphen"/>gain, No more than thoſe <hi>Ram<g ref="char:EOLhyphen"/>bling</hi> Pulpiteers you hear, who are as far off from the <hi>Text,</hi> as that un<g ref="char:EOLhyphen"/>skilful Archer was from the mark; whom when <hi>Diogenes</hi> ſaw ready to ſhoot, he preſently ran to the place where the Arrow was to be direct<g ref="char:EOLhyphen"/>ed alledging this reaſon for it, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> that I might not be hit. Well my <hi>Beloved</hi> the Text you have heard, from which words I ſhall gather this plain lamping obſerva<g ref="char:EOLhyphen"/>tion which flowes <hi>naturally</hi> from the Words, <hi>viz</hi> that <hi>Lying is a very pleaſant, edifying, and univerſally profitable thing all over the Chriſtian World.</hi> Now I ſhall ſpeak to theſe words firſt by way of <hi>Explication,</hi> Secondly by way of <hi>Application</hi> ſhut<g ref="char:EOLhyphen"/>ting
+<pb n="38" facs="tcp:152302:25"/>
+up all with a word of <hi>Exhortati<g ref="char:EOLhyphen"/>on. Lying</hi> (Beloved is a word of great Latitude and extent: As to its <hi>Pedigree</hi> I muſt tell you 'tis of great Antiquity, it comes of a very ancient Family, the firſt <hi>Temptati<g ref="char:EOLhyphen"/>on</hi> that ever was, it was a <hi>Lye.</hi>
+               </p>
+               <p>But that you may know what <hi>Lying</hi> is, you are to take notice that the credit of the <hi>Relator</hi> is that which makes the difference be<g ref="char:EOLhyphen"/>tween <hi>Lying</hi> and ſpeaking of <hi>Truth,</hi> for a <hi>Lye</hi> believed is <hi>Truth,</hi> and <hi>Truth</hi> not believed is a <hi>Lye,</hi> and here I'le illuſtrate this with a ſhort ſtory that concerns a <hi>Conventicling</hi> Brother who exerciſed upon the <hi>Butchers</hi> Wife very ardently, (ſhe admiring him as many of the other Siſters did for his profound know<g ref="char:EOLhyphen"/>ledge in <hi>revealing</hi> of <hi>myſteries</hi> and <hi>ſecrets,</hi> or rather <hi>Miſtreſs ſecrets</hi>) you may perhaps gueſs whom I mean, but I'le do him that right
+<pb n="39" facs="tcp:152302:25"/>
+not to name him, becauſe he is dead and gone, and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is a precept. But the ſtory is thus; there was a plain farming Fellow in the Country that lived near the ſaid Brother of the <hi>Congregational</hi> way, that had a youth to his Son, who though a <hi>Minor</hi> in Years, yet was arived to a great <hi>maturity</hi> in all debauchery, and notwithſtanding the repeated admonitions of his Fa<g ref="char:EOLhyphen"/>ther, he continued in his wicked Courſes, inſomuch that his Father deſpairing that he could ever work upon him, ſo as to reclaim him; de<g ref="char:EOLhyphen"/>ſired the ſaid Teacher that he would exerciſe his Juriſdiction over him, he being a perſon of ſuch Au<g ref="char:EOLhyphen"/>thority among the <hi>Brotherhood</hi> and <hi>Siſterhood,</hi> thought (it ſeems) that his Reproof might take ſuch im<g ref="char:EOLhyphen"/>preſſion upon his Son, ſo as to re<g ref="char:EOLhyphen"/>form him; and to be ſhort; the ſaid <hi>Teacher</hi> meeting with him one day
+<pb n="40" facs="tcp:152302:26"/>
+did ſeverely caſtigate him in this manner. Oh! <hi>Sirrah</hi> (ſaith he) I hear fine things of you; you are a <hi>notorious Rogue,</hi> you have got a trick, (I hear) that when your Fa<g ref="char:EOLhyphen"/>ther ſends you to keep his Sheep to play at <hi>Cards,</hi> and looſe I know not how many of them at <hi>One</hi> and <hi>Thirty;</hi> that is a <hi>Lye</hi> ſaith the Boy preſently: How now ſaith this Teacher you are a <hi>rude Rogue</hi> in<g ref="char:EOLhyphen"/>deed; do you give me the <hi>Lye,</hi> why quoth the Boy 'tis <hi>true</hi> enough that you did tell a <hi>Lye?</hi> why how is that Boy? (ſaith he) Marry thus; when I was One and Thirty I al<g ref="char:EOLhyphen"/>wayes <hi>wonn,</hi> yea that is true in<g ref="char:EOLhyphen"/>deed Boy ſaith the Teacher. But Sirrah I hear of another <hi>Roguiſh trick</hi> you have, and that is you are wont, (when your Father is angry with you for your evil practiſes) to drive his Sheep over a narrow Bridge, and ſo they fall beſide and are loſt;
+<pb n="41" facs="tcp:152302:26"/>
+that is another <hi>Lye</hi> ſaith the Boy; why Boy, (quoth the Teacher) how is that? thus 'tis replyes the Boy; thoſe Sheep that go over the <hi>Bridge</hi> are <hi>ſafe</hi> enough, but they are only <hi>loſt</hi> that fall <hi>beſide</hi> the Bridge; ſo this Brother was convinced that the Boy ſpoke Truth in both theſe things he charged him with as great miſdemeanours; but notwithſtand<g ref="char:EOLhyphen"/>ing it fell out to be true, as the Boy ſaid, he was given enough to <hi>Lying,</hi> and ſo are many beſide him, that are <hi>men,</hi> who have ſo uſed themſelves to <hi>Lying,</hi> that they will <hi>Lye</hi> as faſt as a <hi>Dog</hi> will <hi>lick</hi> a Diſh, now the reward of ſuch per<g ref="char:EOLhyphen"/>ſons is, never to be <hi>credited,</hi> al<g ref="char:EOLhyphen"/>though they chance to ſpeak <hi>Truth</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (as a good Author ſaith) but of all perſons that are addicted to <hi>Lying,</hi> none have ſo good a warrant for their Lying as <hi>Travellers,</hi> for they may
+<pb n="42" facs="tcp:152302:27"/>
+                  <hi>Lye</hi> by <hi>Authority.</hi> when I Was at <hi>Amſterdam</hi> in <hi>Holland</hi> the Deſcrip<g ref="char:EOLhyphen"/>tion of an <hi>Ambaſſador,</hi> that obtain<g ref="char:EOLhyphen"/>ed very much there, was; <hi>Legatus eſt vir bonus, peregrè miſſus ad men<g ref="char:EOLhyphen"/>tiendum Reipub. causâ;</hi> but if others do'nt (<hi>Lye,</hi> and the News be true that we hear) <hi>Ambaſſadors</hi> there are never likely to <hi>Lye more</hi> for ſuch a purpoſe, for their Common-wealth or <hi>Stateſhip</hi> is e'ne <hi>defunct,</hi> it being a thing ſo odious to the people, that though their be great <hi>Diſcords</hi> a<g ref="char:EOLhyphen"/>mong them, yet in this they agree all and cry out with one <hi>accord. The Devil take the States.</hi> But if Ambaſſadors are ſo much given to <hi>Lying,</hi> (as you heard before) what then are other ordinary Travel<g ref="char:EOLhyphen"/>lers: It is ſo Authentick with ſome of them, that they will take it for an high affront, if you do but ſo much as queſtion the <hi>Truth</hi> of any <hi>ſtory</hi> they relate, though it be ne<g ref="char:EOLhyphen"/>ver
+<pb n="43" facs="tcp:152302:27"/>
+ſo improbable, and indeed they have told <hi>Lyes</hi> ſo often, that they at length themſelves <hi>believe</hi> them to be <hi>true;</hi> and are ready to <hi>Duel</hi> any that ſeem in the leaſt to con<g ref="char:EOLhyphen"/>tradict them: Yea, though there be an evident <hi>impoſſibility</hi> in the ſtories they relate, as there is in that of the Biſhop of <hi>Mentze's</hi> who bragged that he had a <hi>flame</hi> of the <hi>Buſh</hi> which <hi>Moſes</hi> beheld <hi>burning.</hi> And that likewiſe of the <hi>Holy</hi> Re<g ref="char:EOLhyphen"/>lique of the <hi>Aſſe;</hi> of which the ſtory runs thus. A <hi>Dutch man</hi> mak<g ref="char:EOLhyphen"/>ing his confeſſion to a Maſſe Prieſt at <hi>Rome,</hi> promiſed by an Oath to keep ſecret whatſoever the Prieſt ſhould impart unto him, untill he came into <hi>Germany,</hi> whereupon the Prieſt gave him a <hi>Legg</hi> of the <hi>Aſſe</hi> on which Chriſt rode into <hi>Jeruſalem</hi> very <hi>neatly</hi> bound up in a <hi>ſilken cloath,</hi> and ſaid this is the <hi>Holy Relique</hi> of that <hi>Aſſe</hi> on which
+<pb n="44" facs="tcp:152302:28"/>
+the Lord Chriſt corporally did ſit, and with his <hi>ſacred Leggs</hi> touched this <hi>Aſses Leggs:</hi> Then was the <hi>Dutch<g ref="char:EOLhyphen"/>man</hi> very joyful, and carried the ſaid holy Relique with him into <hi>Germany:</hi> Now when he in the preſence of <hi>Four</hi> other his <hi>Com<g ref="char:EOLhyphen"/>rades, ſhewed</hi> it, each of them hav<g ref="char:EOLhyphen"/>ing likewiſe received from the ſame Prieſt a Legg, and had promiſed the ſame ſecreſy; they breaking out into great <hi>admiration</hi> ſaid; Lord! <hi>Had that Aſs five Leggs:</hi> From whence it cometh that the <hi>Italians</hi> do <hi>jeer</hi> the <hi>Dutch-men</hi> and hold them for very <hi>groſs ignorant people.</hi>
+               </p>
+               <p>
+                  <hi>Lying</hi> in general being <hi>nakedly</hi> and abſtractly conſidered, firſt im<g ref="char:EOLhyphen"/>plyes <hi>reſt,</hi> for by this means we <hi>enjoy</hi> reſt, that which all things, even to the loweſt inanimates tend unto with a ſtrong propenſion, <hi>ſtones</hi> themſelves violently ruſh down
+<pb n="45" facs="tcp:152302:28"/>
+to their <hi>Center,</hi> and encreaſe their motion as they come near it: thoſe that are uſed to <hi>hunt</hi> in Whetſtones <hi>Park</hi> have ſufficiently experimented the Truth of this (or elſe they have, not been given ſo much to <hi>Lying</hi> as the World <hi>thinks</hi> them.) Flames and <hi>Fire</hi> mount upwards being im<g ref="char:EOLhyphen"/>patient of thoſe <hi>
+                     <g ref="char:V">Ʋ</g>nctious</hi> and ſulphu<g ref="char:EOLhyphen"/>rious Priſons to which we confine them, all things tend to quiet and reſt. If a man would obtain <hi>ſci<g ref="char:EOLhyphen"/>ences</hi> in any kind, there is no way ſo <hi>conducible</hi> as ſerenity of mind and <hi>quietneſs?</hi> hence it was that the Po<g ref="char:EOLhyphen"/>ets ſecluded the Muſes to mount <hi>Parnaſſus,</hi> to Fountains and Groves, as knowing that <hi>Cities</hi> were no <hi>fit</hi> places for any <hi>profound</hi> Meditati<g ref="char:EOLhyphen"/>ons, and conſequently much com<g ref="char:EOLhyphen"/>pany an Enemy to it: For this rea<g ref="char:EOLhyphen"/>ſon I believe it was that the Learn<g ref="char:EOLhyphen"/>ed Sir <hi>Henry Wotton</hi> after his many Embaſſayes and negotiations con<g ref="char:EOLhyphen"/>cluded
+<pb n="46" facs="tcp:152302:29"/>
+thus; <hi>tandem hoc didici ani<g ref="char:EOLhyphen"/>mas ſapientiores fieri quieſcendo.</hi>
+               </p>
+               <p>Secondly <hi>Lying</hi> as it implies <hi>reſt</hi> (as I told you before) ſo it implies <hi>health</hi> alſo; that is to ſay in <hi>Women</hi> for it very much conduces there<g ref="char:EOLhyphen"/>unto, provided they <hi>lye</hi> according, as the French Proverb hath it; <hi>la femme eſt bien malade, quand elle ne ſe peut tenir ſur le doſ.</hi> That Wo<g ref="char:EOLhyphen"/>man muſt needs be ſick, who can<g ref="char:EOLhyphen"/>not lye on her <hi>back.</hi>
+               </p>
+               <p>Thirdly, <hi>lying</hi> implies pleaſure, and ſo 'tis true as I told you in my Doctrinal obſervation that it is a pleaſant thing, for Women eſpeci<g ref="char:EOLhyphen"/>ally, but this is no otherwiſe <hi>true,</hi> but as there is <hi>lying</hi> in the <hi>caſe;</hi> that is when <hi>men</hi> lye with <hi>them,</hi> for they take no pleaſure at all in <hi>lying alone.</hi>
+               </p>
+               <p>
+                  <pb n="47" facs="tcp:152302:29"/>Now though I ſay <hi>lying</hi> is a very pleaſant thing, you are to take notice that I do'nt mean this of a <hi>promiſcu<g ref="char:EOLhyphen"/>ous</hi> Lying, for there are ſome <hi>Women</hi> that is not lawful for men to <hi>lye</hi> with them: And therefore Mr. Take-o'-Truſt a great <hi>Caſuiſt</hi> of the <hi>ſiſters</hi> makes a nice diſtinction herein, and <hi>cuts</hi> it for an <hi>hair,</hi> A man (ſaith he very argutely) may <hi>lye</hi> with his <hi>own</hi> Mans Wife, but not with <hi>another</hi> Mans Wife: And Dr. <hi>Amphibolus</hi> another great <hi>Caſuist</hi> ſaith, that it is not lawful, or at leaſt wiſe not ex<g ref="char:EOLhyphen"/>pedient, for a man to <hi>lye</hi> at all <hi>times</hi> with a Woman, no not with his own Wife, for one may as he phra<g ref="char:EOLhyphen"/>ſes it uſe <hi>licita illicitè.</hi> But (belo<g ref="char:EOLhyphen"/>ved) for my more methodical pro<g ref="char:EOLhyphen"/>ceeding, you may be pleaſed to take notice of a <hi>Tripartite</hi> Diviſion of <hi>lying</hi> that is commonly known, <hi>viz.</hi> an officious, a Jocoſe, and a per<g ref="char:EOLhyphen"/>nicious <hi>lying.</hi> Of theſe in their order
+<pb n="48" facs="tcp:152302:30"/>
+briefly; But rouze up your ſelves (Brethren) for I ſee ſome of you a ſleep with your Heads in the <hi>ſiſters laps;</hi> a foul ſhame and a great ſcan<g ref="char:EOLhyphen"/>dal, that when I am <hi>ſtanding</hi> here, you ſhould <hi>lye</hi> there; I tell you <hi>truly</hi> or rather a <hi>true lye</hi> this ought not to be: I pray mind what I told you, I ſaid there was a threefold Lying, this <hi>lying</hi> of yours make a Fourth but I know not under what Topick to bring it, except it be a <hi>laſcivious lying;</hi> but to return to the Text, and firſt there is an <hi>officious</hi> Lying as I mentioned before. And that is when a man lyes with his <hi>own Wife,</hi> (but this is a thing not much in uſe now a dayes and there<g ref="char:EOLhyphen"/>fore I'le but lightly touch upon it) As for this <hi>Vxorious lying</hi> it is a thing every husband is bound to do <hi>ex officio</hi> if he would be count<g ref="char:EOLhyphen"/>ed an honeſt man. Although ſome are ſo <hi>wiſe</hi> not to tye themſelves to
+<pb n="49" facs="tcp:152302:30"/>
+                  <hi>duty</hi> in this kind. Therefore the <hi>Ita<g ref="char:EOLhyphen"/>lians</hi> ſay <hi>Gli huomini da bene ſi mari<g ref="char:EOLhyphen"/>tano gli ſavij no.</hi> Honeſt men uſe to marry, but wiſe men tarry: I have heard ſome Gallants ſay, that a <hi>Wife</hi> were a fine thing, if ſhe were an <hi>Almanack,</hi> that a man might change her once a <hi>Year:</hi> If the age we lived in were ſo <hi>looſe,</hi> how ma<g ref="char:EOLhyphen"/>ny <hi>cloſe</hi> ſtudents ſhould we have, that would <hi>turn over</hi> ſuch Authors <hi>apace,</hi> if they could have a <hi>liberty</hi> to <hi>turn</hi> them off ſo <hi>ſoon;</hi> for they are apt to think that variety in ſuch <hi>Books,</hi> as well as in other things doth <hi>delight.</hi>
+               </p>
+               <p>But there is another ſort of Of<g ref="char:EOLhyphen"/>ficious <hi>lying,</hi> and that is ſuch a Ly<g ref="char:EOLhyphen"/>ing that is <hi>hurtful</hi> to none, but is of <hi>advantage</hi> to ſome perſons or o<g ref="char:EOLhyphen"/>ther, this many times is profitable, and may lawfully be uſed. As for example, if a certain General of
+<pb n="50" facs="tcp:152302:31"/>
+an <hi>Army</hi> ſhould ſee a <hi>kind</hi> of deſpon<g ref="char:EOLhyphen"/>dency in his Souldiers, and he to <hi>hearten</hi> them up and encourage them, feigns that there are auxſli<g ref="char:EOLhyphen"/>ary forces coming to their <hi>ſuccor;</hi> and by this means puts <hi>courage</hi> into theſe Souldiers when they were al<g ref="char:EOLhyphen"/>moſt exanimated thorough <hi>fear,</hi> ſhall not this figment (think you) be diſpenſed with, that is ſo uſeful? <hi>Plato</hi> allowed a <hi>lye lawful</hi> either to <hi>ſave</hi> a Citizen or <hi>deceive</hi> an Enemy, this kind of <hi>lying Abraham</hi> uſed with <hi>Pharaoh,</hi> and <hi>Abimeleck</hi> and his Servants, and likewiſe the Hebrew Midwives in Aegypt, which pro<g ref="char:EOLhyphen"/>ceeded from a fervent deſire in them to <hi>promote</hi> greatly the good of thoſe <hi>perſons,</hi> and therefore al<g ref="char:EOLhyphen"/>lowed by <hi>Origen,</hi> St. <hi>Hierom, Chry<g ref="char:EOLhyphen"/>ſoſtome, Innocentius</hi> the third, <hi>Caſ<g ref="char:EOLhyphen"/>ſianus</hi> and others: Nay, this is of ſuch Univerſal uſe, that there is no <hi>living</hi> for Trades-men of all ſorts
+<pb n="51" facs="tcp:152302:31"/>
+without it; I believe if man had not fallen, they ſhould never have needed to uſe it, but as he is now it is hard for him to live with<g ref="char:EOLhyphen"/>out it; No <hi>lying</hi> no <hi>living.</hi> There are no <hi>wares</hi> ſcarce vended with<g ref="char:EOLhyphen"/>out the <hi>help</hi> of this, either at home or abroad; they think they can gain no cuſtom without this <hi>cuſ<g ref="char:EOLhyphen"/>tom of lying:</hi> Oh ſaith one, it <hi>coſt me more,</hi> when you have bid mo<g ref="char:EOLhyphen"/>ney for a commodity, this is com<g ref="char:EOLhyphen"/>monly practiſed in the <hi>Exchange,</hi> ſcarce any thing is ſold there with<g ref="char:EOLhyphen"/>out the <hi>exchange of a lye.</hi> And ſome of the Women there will be ready to fly in your face and ſcratch you, if you ſhould ſeem in the leaſt to ſuſpect the <hi>truth</hi> of what they ſay, but if you ſhould eſcape their Nails, you will be <hi>pelted</hi> with the <hi>Hail-ſtones</hi> of opprobrious words, which will fly thick about your Ears, although ſuch perſons would
+<pb n="52" facs="tcp:152302:32"/>
+ſhew more <hi>wit,</hi> and get more <hi>mo<g ref="char:EOLhyphen"/>ney</hi> too, if they were more com<g ref="char:EOLhyphen"/>plaiſant, and uſed more gentle and ſweet Language for <hi>chi non ha dena<g ref="char:EOLhyphen"/>ri in borſa habbia miel in Bocca</hi> as the Italian Proverb is <hi>h. e.</hi> He that hath not money in his purſe, muſt have hony in his Mouth. <hi>Xiphilinus</hi> tells us that Livia the Wife of the Em<g ref="char:EOLhyphen"/>perour <hi>Auguſtus;</hi> promiſed <hi>Nume<g ref="char:EOLhyphen"/>rius Attieus</hi> five and twenty thouſand Crowns, if he would ſwear that he ſaw <hi>Auguſtus Caeſar</hi> after his Death aſcend into Heaven: Now <hi>quis po<g ref="char:EOLhyphen"/>teſt tot armatis reſiſtere,</hi> is there any ſo fool-hardy, Nay ſo <hi>ſottiſh,</hi> as would refuſe ſuch an <hi>offer,</hi> meerly upon the ſcrupuloſity of a fiction. Many of the Brother-hood make no bones of being head of a <hi>facti<g ref="char:EOLhyphen"/>on,</hi> and will they (think you) ſcru<g ref="char:EOLhyphen"/>ple the having their hand in a <hi>fi<g ref="char:EOLhyphen"/>ction:</hi> No I'le warrant you, when
+<pb n="53" facs="tcp:152302:32"/>
+it turns to their advantage and <hi>profit</hi> they can eaſily <hi>ſwallow</hi> it.</p>
+               <p>But there is an officious <hi>ſitting</hi> too as well as <hi>lying,</hi> but that is not my <hi>buſineſs</hi> to treat on here, you will eaſily diſcern that belongs more to an Houſe of <hi>Office,</hi> than my <hi>Text,</hi> and ſo that would be no <hi>cleanly come off</hi> for me, to make ſuch a digreſſion: There is a <hi>lying</hi> for <hi>credit</hi> too as well as <hi>profit,</hi> but ſuch an one that tels a <hi>lye</hi> to ſave his <hi>cre<g ref="char:EOLhyphen"/>dit</hi> wipes his Noſe on his <hi>ſleeve</hi> to ſave his <hi>Napkin;</hi> but I ſhall ſay no more concerning this firſt head of <hi>Officious lying:</hi> Now to come to the ſecond part which is jocoſe <hi>lying;</hi> and this is for the making others <hi>merry,</hi> and may be permitted, provided we exceed not in the meaſure or manner of it; this may argue one to be a <hi>wiſe man</hi> for as the Italian Proverb hath it, <hi>Del
+<pb n="54" facs="tcp:152302:33"/>
+tutto non é ſavio chi non ſa eſſer pazzo:</hi> but you muſt take heed that you be not ſo merry in <hi>jeſt,</hi> as to be ſad in <hi>earneſt</hi> (I mean) to <hi>looſe</hi> your Friend for a <hi>jeſt,</hi> as that Gentleman did, who meeting with a Perſon of Quality his old ac<g ref="char:EOLhyphen"/>quaintance in <hi>London,</hi> that was newly come from beyond Sea (where he had been a long time,) after a congratulation of his ſafe return, ſpoke to him in this fami<g ref="char:EOLhyphen"/>liar Dialect: Dear Rogue! where haſt thou been all this while? who <hi>anſwered,</hi> Faith I have been travelling up and down, and how haſt thou lived? by my <hi>Wits,</hi> ſaith the <hi>Traveller,</hi> whereupon this Jeſ<g ref="char:EOLhyphen"/>ter replyed, Faith I never knew one live upon ſo <hi>little</hi> in all my <hi>life;</hi> but this was ſo biting a jocu<g ref="char:EOLhyphen"/>lary <hi>conceit</hi> and did ſo diſtaſt this Traveller, that he never cared for his <hi>Friend</hi> afterward; it may be
+<pb n="55" facs="tcp:152302:33"/>
+ſaid of ſuch a jocofe man, that he hath a good <hi>Wit,</hi> if a wiſe man had the <hi>keep<g ref="char:EOLhyphen"/>ing</hi> of it. <hi>No ay peor burla que la ver<g ref="char:EOLhyphen"/>dadera</hi> (as the Spaniard ſaith) the <hi>worſt</hi> jeſt is the <hi>true</hi> jeſt, as that was of <hi>Fauſtus</hi> the Son of <hi>Sylla,</hi> who (when his <hi>Sister</hi> had two Gal<g ref="char:EOLhyphen"/>lants at the ſame time, that had fa<g ref="char:EOLhyphen"/>miliarity with her, namely <hi>Fulvius</hi> a <hi>Fullers Son,</hi> and <hi>Pompey</hi> ſurnamed <hi>Macula</hi>) ſcoffingly ſaid; <hi>Miror ſo<g ref="char:EOLhyphen"/>rorem meam habere Maculam cum ha<g ref="char:EOLhyphen"/>beat fullonem.</hi>
+               </p>
+               <p>But the third ſort of <hi>lying</hi> ac<g ref="char:EOLhyphen"/>cording to the threefold Diviſion that I made, remains yet to be ſpo<g ref="char:EOLhyphen"/>ken to, I having diſpatched the o<g ref="char:EOLhyphen"/>ther two, <hi>viZ.</hi> an officious and a Jocofe Lye. Now the laſt is a <hi>per<g ref="char:EOLhyphen"/>nicious lying,</hi> and this is twofold; one is when a man <hi>lyes</hi> and hath neither <hi>pleaſure</hi> or <hi>profit</hi> by his <hi>lying,</hi>
+                  <pb n="56" facs="tcp:152302:34"/>
+the ſecond is when one indeed hath <hi>pleaſure</hi> at firſt, but <hi>dolour</hi> after<g ref="char:EOLhyphen"/>wards: As for the firſt ſort of <hi>ly<g ref="char:EOLhyphen"/>ing,</hi> it is an unaccountable thing in ſuch a perſon that ſo lyes, and deſerves to be ſeverely cenſured: In the time of the Emperour <hi>Clau<g ref="char:EOLhyphen"/>dius</hi> there dyed a Man in <hi>Rome</hi> named <hi>Pamphylus,</hi> who never told any matter of Truth in all his life time, but evermore had his chiefeſt delight in <hi>lying:</hi> And I heard a ſto<g ref="char:EOLhyphen"/>ry not long ago at a <hi>Coffee-Houſe,</hi> (which you know is the <hi>Mart</hi> of <hi>News</hi>) of a <hi>Country-man of our own</hi> that was ſo given to <hi>lying,</hi> but that was a <hi>bed,</hi> (although he could <hi>lie</hi> in other <hi>places</hi> too) that to break himſelf of that ſlothful humour, was reſolved to do pennance in <hi>one ſheet,</hi> and therefore very handſome<g ref="char:EOLhyphen"/>ly as he thought <hi>pulled off</hi> one of the ſheets of the Bed where he lay as a Gueſt, and <hi>wrapt</hi> himſelf up in
+<pb n="57" facs="tcp:152302:34"/>
+it as if it had been a <hi>winding ſheet:</hi> But being found out and <hi>laughed</hi> at for his labour, <hi>he turned Cat in pan</hi> (as they ſay,) and transferred the contrivance upon the <hi>Miſtriſs of the Houſe,</hi> ſaying it was done by her on purpoſe to <hi>affront</hi> him, and that he would never <hi>lie</hi> there again: Now this (you will ſay) was <hi>double lying,</hi> although he lay but in <hi>one ſheet:</hi> But however no <hi>one ſingle</hi> perſon believed his tale, no more than he <hi>himſelf</hi> did; but no more of this now, becauſe the perſon that acted this fooliſh trick may be <hi>dead</hi> (for all as I know.) For I hear that preſently after this mad Prank was played, he finding his <hi>Spirits</hi> exhaled with the <hi>heat</hi> of his paſſion took a Voyage to <hi>Anticy<g ref="char:EOLhyphen"/>ra,</hi> to purge his <hi>Brain-ſick</hi> phrenſy with <hi>Helle-bore;</hi> now whether he <hi>died</hi> there, may be a queſtion much controverted, for I never heard he
+<pb n="58" facs="tcp:152302:35"/>
+                  <hi>returned</hi> from thence; but I'le not undertake to reſolve this point, but leave it as a Quaere for thoſe <hi>fly-wit<g ref="char:EOLhyphen"/>ted</hi> perſons to decide, that have nothing elſe to do but to ſtudy the Anatomy of <hi>Flies</hi> or ſuch like mi<g ref="char:EOLhyphen"/>nute things of no moment: But ſe<g ref="char:EOLhyphen"/>condly as I told you before, the other ſort of pernicious <hi>lying,</hi> is when one indeed hath <hi>pleaſure</hi> at firſt in Lying, but <hi>dolour</hi> afterward. Now this is ſuch a Lying that is hurtful and deſtructive to <hi>both par<g ref="char:EOLhyphen"/>ties,</hi> and is a <hi>mortal</hi> offence, for ma<g ref="char:EOLhyphen"/>ny times it cauſes <hi>mortality.</hi> For example ſake, when a man <hi>lies</hi> in the <hi>torrid zone</hi> of a Lays, or ſome proſtituted She-bed-fellow, and gets ſuch an <hi>beat or clap,</hi> that he can never claw it off again: Such an one may take up the ſame com<g ref="char:EOLhyphen"/>plaint that <hi>Hermione</hi> in <hi>Plutarck</hi> doth, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. This kind of <hi>Lying</hi> is very <hi>deſtructive</hi>
+                  <pb n="59" facs="tcp:152302:35"/>
+to ones <hi>health.</hi> You have it well expreſt in the Italian Proverb <hi>quelle che hâ un piè in Bordello hà l'altro nello ſpedale.</hi> He who hath the one foot in a Bawdy-Houſe hath the other in an Hoſpital. Thoſe perſons that do ſo freely indulge themſelves in ſuch <hi>wild ranges</hi> and chaſes as aforeſaid, little conſider how much their <hi>deſultory</hi> promiſ<g ref="char:EOLhyphen"/>cuous conjunctions do diſturb the <hi>Mind,</hi> and render it unfit to un<g ref="char:EOLhyphen"/>dertake ſerious affairs, they are ſo much for <hi>generation work,</hi> that at the laſt they wholly incapacitate themſelves for the ſerving of their <hi>generations,</hi> beſides the many miſ<g ref="char:EOLhyphen"/>chiefs the <hi>body receives</hi> by thoſe fa<g ref="char:EOLhyphen"/>tal venereal encounters, which are oft-times the productives of <hi>miſery</hi> and <hi>infamy</hi> which they intail to their poſterity, for though theſe ſtollen waters ſeem at firſt to be <hi>ſweet,</hi> (and you ſhall have Gallants in the ap<g ref="char:EOLhyphen"/>prehenſion
+<pb n="60" facs="tcp:152302:36"/>
+of the ſweetneſs there<g ref="char:EOLhyphen"/>of <hi>riſque</hi> fortune, honour; yea life it ſelf, and all to enjoy a <hi>Miſs;</hi>) yet they will prove waters of <hi>Ma<g ref="char:EOLhyphen"/>rah,</hi> bitter in the end. Now the beſt way to cure this extravagant diſtemper of a miſcellaneous <hi>Coition</hi> is as a good Author ſaith, to ſup<g ref="char:EOLhyphen"/>poſe a Woman to be <hi>maſculine,</hi> and ſo weigh her conditions as breed<g ref="char:EOLhyphen"/>ing parts, <hi>&amp;c.</hi> for we all befool our Judgments with thinking too much of her <hi>inviſibilities.</hi>
+               </p>
+               <p>But (Beloved) that you may be <hi>edifyed</hi> by what I have ſaid, I come in the laſt place to ſhew you, that <hi>lying</hi> is a very <hi>edifying</hi> thing, it tends very much to edi<g ref="char:EOLhyphen"/>fication, for by that means the Siſters being <hi>wrought upon</hi> will greatly <hi>encreaſe</hi> and multiply, and they being extraordinarily <hi>plumpt up</hi> before, it is a <hi>pregnant</hi> argument
+<pb n="61" facs="tcp:152302:36"/>
+of their <hi>thriving</hi> condition, and that in due time they will bring forth a bleſſed <hi>ſeed,</hi> but the <hi>iſſue</hi> is uncertain, becauſe no body knowes, whether the cun-juncti<g ref="char:EOLhyphen"/>on between them and their <hi>hus<g ref="char:EOLhyphen"/>bands,</hi> or ſome <hi>benevolent</hi> Qua<g ref="char:EOLhyphen"/>kers or fifth Monarchy men: Now you muſt know the Siſters do'nt <hi>edify</hi> a like <hi>under</hi> all Teachers, thoſe that they edify moſt by are certain <hi>whifling</hi> Declamers, who being void of knowledg and ver<g ref="char:EOLhyphen"/>tue <hi>mount</hi> the Pulpit with a Gigan<g ref="char:EOLhyphen"/>tean <hi>confidence</hi> as a Player doth the Stage, and there <hi>fulminate</hi> and <hi>tonitruate</hi> words to puzzle intellects, and vent the fooliſh and ridicu<g ref="char:EOLhyphen"/>lous <hi>whimſies</hi> of their diſtempered brains, for profound and ſolid Di<g ref="char:EOLhyphen"/>vinity, they admire theſe moſt, and count them eſpecially the <hi>ab<g ref="char:EOLhyphen"/>leſt</hi> men that are of <hi>long ſtanding,</hi> (for they care not how ſhort they
+<pb n="62" facs="tcp:152302:37"/>
+are of <hi>underſtanding</hi>) But as for the <hi>Do-littles,</hi> the Siſters that are not acquainted with their <hi>parts,</hi> are ſo prejudiced againſt them upon the account of their <hi>name,</hi> that they are apt to think them <hi>weak</hi> Bro<g ref="char:EOLhyphen"/>thers and not <hi>edifying</hi> at all. But others of the Siſters who know them very <hi>intimately,</hi> Cry them up for men of as good <hi>abilities</hi> as ma<g ref="char:EOLhyphen"/>ny others of a <hi>greater name,</hi> and profeſs they partake of their gifts with a great deal of <hi>pleaſure</hi> and are very much edifyed <hi>under them.</hi>
+               </p>
+               <p>Well (Beloved) you have the do<g ref="char:EOLhyphen"/>ctrinal part of the Text ſufficiently explained to you, now I ſhall <hi>wind</hi> up the <hi>bottom</hi> of my Diſcourſe with one word of exhortation to young men, and ſo diſmiſs you: Sirs in this your day, whileſt your Veins are full of Blood, and you have
+<pb n="63" facs="tcp:152302:37"/>
+Marrow in your Bones, exerciſe your ſelves, yea <hi>lay out</hi> your ſelves, parts, abilities, and all that you have in <hi>Lying,</hi> and the Siſters <hi>hole</hi> ſer<g ref="char:EOLhyphen"/>vice: If you mean not in <hi>part,</hi> but <hi>wholly</hi> to deſtroy your ſelves.</p>
+               <p>Well <hi>Terpole?</hi> What ſay you now? You thought (I believe) that I could not make a <hi>Preachment,</hi> but you ſee I do'nt do as your rambling Pulpiteers, that give one <hi>knock</hi> on the <hi>Hoop,</hi> and another on the <hi>Barrel,</hi> (as the common ſaying is) but I keep cloſe to the matter in hand: Do'nt I <hi>tickle</hi> the point think you? Am not I a Divine now?</p>
+            </sp>
+            <sp>
+               <speaker>Terp.</speaker>
+               <p>
+                  <hi>I am not ſufficiently con<g ref="char:EOLhyphen"/>vinced, that you are any great Di<g ref="char:EOLhyphen"/>vine; for your Diſcourſe conſiſts not ſo much of</hi> Divinity, <hi>as of</hi> Levity.</p>
+            </sp>
+            <sp>
+               <pb n="64" facs="tcp:152302:38"/>
+               <speaker>Mim.</speaker>
+               <p>That is an <hi>Errour</hi> which I muſt deſire you to <hi>correct,</hi> blott out <hi>levity,</hi> and write <hi>mirth</hi> inſtead thereof; you of the <hi>Siſterhood,</hi> are hugely given to <hi>cenſuring;</hi> but I paſs not for that; I care as lit<g ref="char:EOLhyphen"/>tle for it as a <hi>Gooſe T</hi>— for the <hi>Thames,</hi> (as the vulgar Pro<g ref="char:EOLhyphen"/>verb is) ſo long as I deſerve not your cenſure. Some perſons are ſo <hi>caprichious,</hi> that if I were ſure al<g ref="char:EOLhyphen"/>waies to do <hi>well,</hi> it is a queſtion, whether that would alwaies pleaſe. I am far from being in love with <hi>faults,</hi> but ſure this is but a <hi>light</hi> one, if any, and it is for <hi>delight.</hi> There are none will blame this innocent jovial humour, but ſome peeviſh <hi>moroſe old</hi> men: who like old <hi>Monkies,</hi> having either gnaw<g ref="char:EOLhyphen"/>ed away or loſt their <hi>Tailes,</hi> read Lectures to young ones to <hi>cut</hi> theirs too. I know not why I
+<pb n="65" facs="tcp:152302:38"/>
+ſhould affect a <hi>ſullen</hi> melancholly <hi>humour,</hi> make <hi>wry</hi> faces and look ſorrowfully, to pleaſe ſome <hi>dog<g ref="char:EOLhyphen"/>ged</hi> tempers; ſorrows will come <hi>faſt</hi> enough, I ſhall not need to <hi>court</hi> them. I am ſure a <hi>pound</hi> of care will not pay an <hi>ounce</hi> of debt. Therefore why ſhould not I make my life as <hi>pleaſant</hi> as I can, the moſt compendious way leading to this, is to baniſh all <hi>anxious</hi> ſoli<g ref="char:EOLhyphen"/>citude. <hi>Grave cura non ti punga è ſara tua vita Lunga</hi> as the Italian Proverb is: There be ſome <hi>Stipo<g ref="char:EOLhyphen"/>condriaques</hi> that can endure <hi>mirth</hi> no more than <hi>Owles</hi> can <hi>day light,</hi> but it ſhall never make me have a quarrel with the <hi>Light,</hi> becauſe weak eyes are dazled with its <hi>beames.</hi> There muſt be in every thing intermiſſions to <hi>unbend</hi> our ſpirits; our <hi>ſpirits</hi> are <hi>cloy'd</hi> as well as our <hi>ſences,</hi> if they have not
+<pb n="66" facs="tcp:152302:39"/>
+ſome relaxation by <hi>delights.</hi> The Philoſopher that alwaies <hi>wept,</hi> it may be would have a mind to <hi>laugh</hi> upon ſome occaſions: Mirth is that which fits one for <hi>buſineſs</hi> according to the Spaniſh Proverb. <hi>Huelgo me un poco mas hilo mi copo</hi> I am a little <hi>merry,</hi> but I do my <hi>buſineſs,</hi> and it greatly conduces to <hi>health</hi> too, it is a Soveraign Amulet againſt ſome diſtempers, which afflict ſedentary men, it re<g ref="char:EOLhyphen"/>vives the drooping ſpirits of hypo<g ref="char:EOLhyphen"/>condriack Perſons: And ſhall it then be counted a <hi>crime</hi> to bring in one merry <hi>ſcene</hi> to ſet off a ſerious and tedious <hi>Act:</hi> But now <hi>buſineſs</hi> comes upon me ſo faſt <hi>(Terpole)</hi> that I can ſtay no longer to talk with you; I am to go where neither Pope nor Em<g ref="char:EOLhyphen"/>perour can ſend an Embaſſadour, and if I neglect this opportunity of <hi>putting forth</hi> my ſelf, 'tis a que<g ref="char:EOLhyphen"/>ſtion
+<pb n="67" facs="tcp:152302:39"/>
+whether ever I ſhall come to be a <hi>Privy Counſellour,</hi> but rather there is more likelyhood that I ſhould be ſent to the <hi>Iſle</hi> of <hi>Silly,</hi> to negotiate there, and then you may eaſily <hi>ſmell out</hi> in what a caſe I ſhould be.</p>
+            </sp>
+            <sp>
+               <speaker>Terp.</speaker>
+               <p>
+                  <hi>I have</hi> buſineſs <hi>as well as you, that cals me away.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mim.</speaker>
+               <p>It is no <hi>ſtate</hi> buſineſs, (I preſume) for then I'le warrant you t 'was likely to be well <hi>done:</hi> for Women in <hi>State</hi> affairs are like <hi>Monkies</hi> in Glaſs-ſhops: But your <hi>buſines,</hi> I ſuppoſe lies in the <hi>Iſle of Man</hi> not far from me, where the reſt of the Siſters cheifeſt buſineſs <hi>uſe to Lye,</hi> and I know you long to be there, therefore I'le keep you no longer from it: Adieu <hi>Terpole.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="68" facs="tcp:152302:40"/>
+               <speaker>Terp.</speaker>
+               <p>
+                  <hi>God be with you,</hi> (Mimo<g ref="char:EOLhyphen"/>logue) <hi>for you have been far enough off from him a good while, though you have been</hi> preaching <hi>(as you call it) but the nearer to the</hi> Church, <hi>the further from</hi> God <hi>(as they ſay) and you ſeem to have verifyed that Pro<g ref="char:EOLhyphen"/>verb, and ſo I bid you</hi> Farewell.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:152302:40"/>
+            <head>Gentle Reader, theſe faults have eſcaped thorough haſty Printing, which thou art deſired to correct as thou meeteſt with them.</head>
+            <p>IN the Title page inſtead of <hi>decipere</hi> read <hi>deſipe<g ref="char:EOLhyphen"/>re,</hi> pag. 19. read v. 29. p. 20. r. Cap. 25. v. 19. p. 23. no comma at Tautologies p. 24. next laid open l. 3. theſe words being omitted, are to be read: And ſo are the Brothers, they ſay Truth is beſt repreſented by Eve p. 30. l. 17. no full point to be next (This) but a comma p. 37. is tranſpoſed the following page is to be read firſt, p. 47. l. 5. next that r. it is.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
